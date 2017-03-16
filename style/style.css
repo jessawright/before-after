@@ -1,12 +1,11 @@
-.comparison {
+.comparison-photos {
   position: relative;
 }
 
 .before {
   z-index: 2;
-  position: absolute;
-  top: 0;
-  left: 0;
+  position: relative;
+
 }
 
 .after {
@@ -14,8 +13,4 @@
   position: absolute;
   top: 0;
   left: 0;
-}
-
-.caption {
-  top: 267px;
 }
