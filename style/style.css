@@ -1,0 +1,21 @@
+.comparison {
+  position: relative;
+}
+
+.before {
+  z-index: 2;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.after {
+  z-index: 1;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.caption {
+  top: 267px;
+}
