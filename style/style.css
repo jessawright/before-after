@@ -5,6 +5,8 @@
 .before {
   z-index: 2;
   position: relative;
+  max-width: 90vw;
+  max-height: 90vh;
 
 }
 
@@ -13,4 +15,6 @@
   position: absolute;
   top: 0;
   left: 0;
+  max-width: 90vw;
+  max-height: 90vh;
 }
